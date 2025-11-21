@@ -90,7 +90,7 @@ Se um ou mais dos seus jogadores estiverem usando o gancho [[Running the Adventu
 
 ## A2a. A Chegada
 ### Entrada
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 1.</em></span>
+<div class="citation"><p>Entrada pelo portão de ferro forjado, lanternas de óleo pendem de correntes. Portas de carvalho robustas levam ao hall de entrada com brasão da família e retratos. Tem subseções 1A (pórtico), 1B (hall de entrada).</p></div>
 
 Leia a todos os jogadores o seguinte texto:
 
@@ -112,7 +112,7 @@ A entrada além do pórtico está de outra forma como descrita em <span class="c
 >
 > Em troca da permissão para vagar longe da terra nebulosa de Barovia para reivindicar sacrifícios, a Death House está obrigada a retornar ao vale após cada excursão de caça. Caso quaisquer aventureiros escapem com sucesso do altar ensanguentado da casa, eles inevitavelmente emergem no domínio de Strahd—garantindo a ele uma colheita digna de presas para perseguir. 
 ### Salão Principal
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 2.</em></span>
+<div class="citation"><p>Amplo salão com lareira de mármore negro, escadaria de mármore vermelho, espada longa montada acima da lareira, painéis de madeira com serpentes/caveiras escondidas (Percepção CD 12). Tem subseções 2A (salão principal), 2B (guarda-roupa).</p></div>
 
 Quando os jogadores passam pelo limiar da Death House, quaisquer relíquias Barovianas que eles carregam deixam de estar ativas. (Por exemplo, o *sunrise medallion* para de brilhar.)
 
@@ -176,7 +176,7 @@ O relógio de pêndulo então bate seis horas.
 Um jogador que abre qualquer porta ou cortina voltada para o exterior na Casa da Morte, ou que sai para qualquer varanda, descobre que o exterior da casa foi cercado por gavinhas grossas e carnudas. Embora as gavinhas possam ser danificadas, mais crescem rapidamente para substituí-las, selando os jogadores dentro. Um jogador que inspeciona as gavinhas descobre que elas parecem estar se extrudindo de baixo da casa.
 ## A2b. O Primeiro Andar
 ### Guarda-Roupa
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 2.</em></span>
+<div class="citation"><p>Adjacente ao salão principal, contém mantos e vestimentas penduradas. Área de armazenamento de roupas da família Durst.</p></div>
 
 Um jogador que investiga o guarda-roupa adjacente ao Salão Principal pode observar um envelope saindo do bolso de um dos mantos. O envelope, que é endereçado a Lady Lovina Wachter, contém um convite. Ele diz:
 
@@ -488,7 +488,7 @@ O espírito não pode falar em voz alta nem sair do espelho. No entanto, ele nã
 Se os jogadores pedirem ao espírito ajuda para alcançar o porão ou encontrar o "monstro", o espírito se afasta—desaparecendo de vista—e a porta secreta atrás do espelho se abre lentamente. O espírito não retorna.
 ## A2e. O Sótão
 ### Corredor do Sótão
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 16.</em></span>
+<div class="citation"><p>Corredor vazio preenchido com poeira e teias de aranha. Porta para Área 20 está trancada (chave na Área 8, ou Ferramentas de Ladrão CD 15).</p></div>
 
 Esta sala é basicamente como descrita em <span class="citation">Attic Hall (p. 215)</span>. Quando os jogadores entram nesta sala, leia:
 
@@ -499,7 +499,7 @@ Esta sala é basicamente como descrita em <span class="citation">Attic Hall (p. 
 
 A porta leva ao [[#Spare Bedroom]].
 ### Quarto de Hóspedes
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 17.</em></span>
+<div class="citation"><p>Cama estreita, mesinha de cabeceira, pequeno fogão de ferro, escrivaninha com banco, guarda-roupa vazio, cadeira de balanço, boneca sorridente em vestido de renda amarela sentada no parapeito da janela norte coberta de teias de aranha.</p></div>
 
 Esta sala é basicamente como descrita em <span class="citation">Spare Bedroom (p. 215)</span>. A boneca do Children's Room (p. 215-16) pode ser encontrada aqui. Quando os jogadores entram pela primeira vez, leia:
 
@@ -518,7 +518,7 @@ A caixa de música também contém dois pedaços enrolados de pergaminho. O prim
 
 Quando os jogadores saem da sala, a cadeira de balanço começa a balançar suavemente e a caixa de música se abre e começa a tocar. O som de um cantarolar maternal flutua pelo ar por dois compassos, mas fica desafinado e distorcido antes de parar de forma violenta e estridente. A cadeira de balanço então para de balançar.
 ### Quarto das Crianças
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 20.</em></span>
+<div class="citation"><p>Trancado do lado de fora (Área 16). Janela tapeada, 2 camas de madeira tamanho infantil empoeiradas, baú de brinquedos com moinhos de vento pintados, casa de bonecas (réplica perfeita da Death House), 2 pequenos esqueletos em roupas esfarrapadas familiares (Rose e Thorn - morreram de fome). Baú de brinquedos tem bichos de pelúcia e brinquedos. Casa de bonecas revela todas as portas secretas com Percepção CD 15.</p></div>
 
 Esta sala é basicamente como descrita em **Children's Room** (p. 215-16).
 
@@ -575,7 +575,7 @@ Quando a porta secreta é revelada, Thorn timidamente pergunta aos jogadores se 
 
 Um jogador possuído por Rose pode conjurar os truques em seu diário, enquanto um jogador possuído por Thorn pode ganhar os efeitos do truque _mage hand_ como uma ação, sem o uso de componentes. (A mão espectral é invisível.)
 ### Depósito
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 18.</em></span>
+<div class="citation"><p>Móveis velhos cobertos por lençóis brancos empoeirados (cadeiras, cabides, espelhos de pé, manequins, etc.), perto do fogão de ferro há baú de madeira destrancado contendo restos mortais da ama envoltos em lençol esfarrapado manchado de sangue (esfaqueada até a morte - Medicina CD 14). Espectro da ama aparece se os restos forem perturbados (a menos que já tenha sido derrotado na Área 15). Porta secreta na parede leste só aparece quando certas condições são atendidas.</p></div>
 
 Esta sala é basicamente como descrita em <span class="citation">Storage Room (p. 215)</span>. Quando os jogadores entram nesta sala, leia:
 
@@ -587,11 +587,11 @@ O **espectro** da ama não aparece nesta sala. Em vez disso, um personagem que a
 
 Um jogador inspecionando os restos mortais sente uma respiração fria em seu ombro e a sensação inabalável de estar sendo observado. Enquanto isso, se outro jogador tiver previamente descoberto um espelho próximo de sua cobertura de lençol, esse jogador pode ver uma aparição de Elisabeth Durst dentro do espelho encarando o jogador perto do baú. Uma vez observada, a aparição desaparece rapidamente.
 ### Quarto de Hóspedes
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 19.</em></span>
+<div class="citation"><p>Cama estreita, mesinha de cabeceira, cadeira de balanço, guarda-roupa vazio, pequeno fogão de ferro.</p></div>
 
 Esta sala é como descrita em <span class="citation">Spare Bedroom (p. 215)</span>.
 ### Escadas Secretas
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 21.</em></span>
+<div class="citation"><p>Escadaria em espiral estreita de madeira rangente em poço de pedra com argamassa de 5 pés de largura, desce 50 pés do sótão até o nível de masmorra passando pelos andares inferiores. Teias de aranha densas preenchem o poço reduzindo visibilidade para 5 pés. Porta secreta e poço não existem até a casa revelá-los.</p></div>
 
 Esta sala é basicamente como descrita em <span class="citation">Secret Stairs (p. 217)</span>. No entanto, abrir a porta secreta revela apenas uma laje de pedra do lado oposto, embutida com um pequeno painel de bronze aproximadamente na altura do peito. Um pequeno nicho oco idêntico ao da biblioteca fica no centro do painel, emanando um brilho âmbar fraco. Quando o nicho é exposto, o fragmento de âmbar da [[#Master Suite]] brilha fracamente e balança no ar em sua direção, como se fosse sustentado por uma força invisível.
 
@@ -615,7 +615,7 @@ Conforme os jogadores descem as escadas, leia:
 **_Marco_**. Descer ao nível de masmorra da Casa da Morte completa um marco da história. Quando o grupo sai das escadas secretas, conceda a cada jogador 200 XP. 
 ## A2f. O Porão
 ### Criptas da Família
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 23.</em></span>
+<div class="citation"><p>Múltiplas criptas escavadas na terra, cada uma selada com laje de pedra (Força Atletismo CD 15 para remover, vantagem com pé de cabra). Inclui criptas para Walter, Gustav, Elisabeth, Rose (23E) e Thorn (23F).</p></div>
 
 Estas salas são basicamente como descritas em **Family Crypts** (p. 217-18).
 
@@ -671,13 +671,13 @@ Se os personagens entrarem em qualquer uma das criptas, leia:
 
 Os jogadores não podem ajudar os fantasmas de Rose ou Thorn a encontrar paz colocando seus restos mortais em seus caixões. Nem [[Non-Player Characters#Rosavalda "Rose" Durst|Rose]] nem [[Non-Player Characters#Thornboldt "Thorn" Durst|Thorn]] acham essas criptas reconfortantes. Ambos preferem sair o mais rápido possível.
 ### Aposentos dos Iniciados do Culto
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 24.</em></span>
+<div class="citation"><p>Mesa de madeira com 4 cadeiras na extremidade leste, 4 alcovos com esteiras de palha mofada na extremidade oeste.</p></div>
 
 Esta sala é basicamente como descrita em <span class="citation">Cult Initiates' Quarters (p. 218)</span>.
 
 Conforme os personagens se movem para descer aos <span class="citation">Well and Cultist Quarters (p. 218)</span>, um som repentino de respingo pode ser ouvido—que então rapidamente diminui.
 ### Poço e Aposentos dos Cultistas
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 25.</em></span>
+<div class="citation"><p>Poço de 4 pés de diâmetro com borda de pedra de 3 pés desce 30 pés até cisterna cheia de água, balde de madeira em mecanismo de corda/roldana. 5 salas laterais serviram como quartos para membros importantes do culto.</p></div>
 
 Esta sala é basicamente como descrita em <span class="citation">Well and Cultist Quarters (p. 218)</span>. Quando os jogadores entram nesta sala, leia:
 
@@ -695,7 +695,7 @@ Substitua a espada curta prateada no baú **25E** por um livro encadernado em co
 
 
 ### Poço Escondido com Espinhos
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 26.</em></span>
+<div class="citation"><p>Canto fantasmagórico visivelmente mais alto indo para oeste. Sabedoria Percepção CD 15 nota ausência de pegadas. Fosso de 5 pés de comprimento, 10 pés de profundidade escondido sob tábuas de madeira apodrecidas cobertas com fina camada de terra. Fundo tem espinhos afiados de madeira.</p></div>
 
 Esta sala é amplamente como descrita em <span class="citation">Hidden Spiked Pit (p. 218)</span>. Se os personagens entrarem nesta área a partir de [[#Well and Cultist Quarters]], leia:
 
@@ -719,7 +719,7 @@ Se os personagens entrarem nesta área a partir de [[#Ghoulish Encounter]], leia
 </div>
 
 ### Salão de Jantar
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 27.</em></span>
+<div class="citation"><p>Mesa de madeira simples ladeada por bancos longos, ossos humanoides mofados espalhados no chão de terra (restos dos festins repugnantes do culto). Alcova escura na parede sul (Área 28).</p></div>
 
 Esta sala é amplamente como descrita em <span class="citation">Dining Hall (p. 218)</span>. Quando os jogadores entrarem nesta sala, leia:
 
@@ -729,7 +729,7 @@ Esta sala é amplamente como descrita em <span class="citation">Dining Hall (p. 
 </div>
 
 ### Despensa
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 28.</em></span>
+<div class="citation"><p>Alcova contém grick que rasteja para fora para atacar primeiro personagem a 5 pés. Percepção Passiva abaixo de 12 fica surpreso.</p></div>
 
 Esta área é amplamente como descrita em <span class="citation">Larder (p. 218)</span>. 
 
@@ -749,7 +749,7 @@ Se os jogadores perturbarem o grick, leia:
 > * ***Quatro Jogadores.*** Reduza os pontos de vida do grick para 22. Reduza seu ataque de tentáculos para 7 (2d6) de dano e seu ataque de bico para 4 (1d8) de dano.
 > * ***Seis Jogadores.*** Aumente os pontos de vida do grick para 32. Aumente seu ataque de tentáculos para 11 (2d8+2) e seu ataque de mordida para 6 (1d8+2).
 ### Encontro Necrófago
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 29.</em></span>
+<div class="citation"><p>Canto fantasmagórico visivelmente mais alto ao norte. Quando personagem alcança ponto médio da interseção de túnel de quatro vias, 4 ghouls (ex-cultistas) emergem do chão e atacam.</p></div>
 
 Esta área é descrita em grande parte em <span class="citation">Ghoulish Encounter (p. 218)</span>. Quando os jogadores se aproximarem desta área pela primeira vez, leia:
 
@@ -782,7 +782,7 @@ Se os jogadores continuarem pelo corredor, leia:
 </div>
 
 ### Escadas Descendo
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 30.</em></span>
+<div class="citation"><p>Do topo da escadaria de 20 pés, óbvio que canto fantasmagórico origina-se abaixo. Descer as escadas e seguir corredor leva à Área 35.</p></div>
 
 Esta sala é descrita em grande parte em <span class="citation">Stairs Down (p. 218)</span>. Quando os jogadores se aproximarem desta área, leia:
 
@@ -791,7 +791,7 @@ Esta sala é descrita em grande parte em <span class="citation">Stairs Down (p. 
 </div>
 
 ### Santuário do Darklord
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 31.</em></span>
+<div class="citation"><p>Esqueletos mofados pendem de grilhões enferrujados nas paredes. Alcova larga na parede sul contém estátua de madeira pintada parecida com homem pálido e magro em capa negra volumosa. Se estátua tocada ou orbe tomado, 5 sombras se formam ao redor da estátua e atacam.</p></div>
 
 Esta sala é descrita em grande parte em <span class="citation">Darklord's Shrine (p. 218)</span>. Além disso, quando os jogadores entrarem nesta sala, leia:
 
@@ -902,7 +902,7 @@ Esta área é descrita em grande parte em <span class="citation">Portcullis (p. 
 
 A roda de madeira que abre a grade permanece no lado oeste do portão (ou seja, o lado voltado para a [[#Ritual Chamber|Câmara Ritual]]). No entanto, o mecanismo de corrente para abrir a grade está quebrado, impedindo os jogadores de prosseguir sem repará-lo (por exemplo, usando o truque _mending_ da Rose) ou levantar a grade manualmente. (Se os jogadores levantarem a grade manualmente e depois a soltarem, seu peso faz com que ela se feche novamente, a menos que seja mantida aberta.)
 ### Ritual Chamber
-<span class="citation"><em>Esta cena ocorre no Apêndice B: Área 38.</em></span>
+<div class="citation"><p>Sala subterrânea quadrada de 40 pés onde culto realizava rituais. Canto origina-se aqui mas cessa quando personagens chegam. Pilares de pedra sem adornos sustentam teto de 16 pés. Água turva (2 pés de profundidade) cobre maior parte do piso. Correntes enferrujadas com algemas pendem do teto acima de altar de pedra manchado de sangue. Evento "Um Deve Morrer!" dispara quando personagem alcança topo do estrado.</p></div>
 
 Esta sala é em grande parte conforme descrito em <span class="citation">Ritual Chamber (p. 219)</span>. A água tem 60 cm de profundidade e deve ser tratada como terreno difícil para criaturas Médias ou menores. Escalar da piscina até as bordas também conta como terreno difícil. Quando os jogadores entrarem nesta sala, leia:
 
