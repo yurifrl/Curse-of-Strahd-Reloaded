@@ -367,7 +367,7 @@ O baú não contém mais a escritura de Old Bonegrinder. Além disso, mude a car
 Os jogadores não reconhecem o nome "Strahd von Zarovich."
 
 > [!design]- **Nota de Design: Removendo a Escritura**
-> Jogadores que encontram a escritura de Old Bonegrinder no baú secreto frequentemente chegam à conclusão equivocada de que saquear a escritura os torna os novos proprietários do moinho. Tais jogadores são propensos, como resultado, a tentar explorar o moinho durante [[Act I - Into the Mists/Arc C - Into the Valley]], desencadeando um conflito com o conventículo de megeras noturnas e—sem culpa própria—um provável TPK. Como tal, a escritura foi removida para ajudar a evitar este resultado.
+> Jogadores que encontram a escritura de Old Bonegrinder no baú secreto frequentemente chegam à conclusão equivocada de que saquear a escritura os torna os novos proprietários do moinho. Tais jogadores são propensos, como resultado, a tentar explorar o moinho durante [[Arc C - Into the Valley]], desencadeando um conflito com o conventículo de megeras noturnas e—sem culpa própria—um provável TPK. Como tal, a escritura foi removida para ajudar a evitar este resultado.
 
 ## A2d. O Terceiro Andar
 Conforme os jogadores sobem as escadas em espiral para o terceiro andar, lembre-os de que eles podem ver pelo centro da escadaria até o andar inferior.
@@ -1123,7 +1123,7 @@ Os jogadores podem facilmente deduzir que esta ruína parece ser um lugar seguro
 
 A noite passa sem problemas. Quando os jogadores despertam na manhã seguinte, Rose e Thorn perguntam aos jogadores se eles podem enterrar seus restos mortais antes de prosseguir, para que possam finalmente descansar. (Os espíritos das crianças não prosseguirão mais para dentro de Barovia, em vez disso implorando aos jogadores que os deixem descansar.) Se os jogadores enterrarem seus restos aqui, os espíritos das crianças os agradecem antes de desaparecer.
 
-Os jogadores podem encontrar o início da Velha Estrada Svalich a uma curta distância através dos bosques, longe da torre. [[Act I - Into the Mists/Arc B - Welcome to Barovia]] então começa.
+Os jogadores podem encontrar o início da Velha Estrada Svalich a uma curta distância através dos bosques, longe da torre. [[Arc B - Welcome to Barovia]] então começa.
 
 **_Marco_**. Escapar da Casa da Morte completa um marco da história. Quando o grupo começar seu primeiro descanso longo após escapar da casa, conceda a cada jogador 400 XP. (Isso deve permitir que os jogadores avancem para o 3º nível.)
 # Notas de Design: Casa da Morte
